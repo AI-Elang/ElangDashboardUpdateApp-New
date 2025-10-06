@@ -1,0 +1,9 @@
+{
+  "version": "2.1.2",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp-New/releases/download/v2.1.2/app-release.apk",
+  "changelog": [
+    "[FIXED] Mismatch data in DSE AI menu."
+  ]
+}
