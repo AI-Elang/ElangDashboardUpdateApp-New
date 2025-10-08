@@ -1,0 +1,9 @@
+{
+  "version": "2.1.3",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp-New/releases/download/v2.1.3/app-release.apk",
+  "changelog": [
+    "[FIXED] Issues about logic in login and etc.",    "[CHANGED] Position menus in table section in homepage."
+  ]
+}
