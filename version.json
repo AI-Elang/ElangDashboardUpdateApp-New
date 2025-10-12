@@ -1,0 +1,9 @@
+{
+  "version": "2.1.5",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp-New/releases/download/v2.1.5/app-release.apk",
+  "changelog": [
+    "[FIXED] Issues in complain detail.",    "[FIXED] Issues in complain detail."
+  ]
+}
