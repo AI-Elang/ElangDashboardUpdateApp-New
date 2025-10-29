@@ -1,0 +1,9 @@
+{
+  "version": "2.1.8",
+  "build_number": 1,
+  "force_update": false,
+  "url": "https://github.com/AI-Elang/ElangDashboardUpdateApp-New/releases/download/v2.1.8/app-release.apk",
+  "changelog": [
+    "[FIXED] incorrect parsing data in detail GA."
+  ]
+}
